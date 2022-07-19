@@ -18,6 +18,7 @@ body{
   justify-content: center;
   height: calc(100vh-1px);
   margin: 1.25rem; 
+   min-height: 100vh;
 }
 *{
   margin: 0;
